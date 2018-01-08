@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body,html{
+	height: 100%;
+}
+#wrap{
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #e4836f
+}
+.tip{
+	font-size: 60px;
+	color: #fff;
+}
+.code{
+	font-size:380px;
+	color: #fff;
+	opacity: .6;
+}
